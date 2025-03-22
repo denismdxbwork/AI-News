@@ -1,23 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <item><title>News Update – Sat, 22 Mar 2025 15:21:25 +0000</title><enclosure url="https://denismdxbwork.github.io/AI-News/news_20250322_152125.mp3" type="audio/mpeg" /><pubDate>Sat, 22 Mar 2025 15:21:25 +0000</pubDate><guid>https://denismdxbwork.github.io/AI-News/news_20250322_152125.mp3</guid></item><title>AI News Podcast</title>
+    <title>AI News Podcast</title>
     <link>https://denismdxbwork.github.io/AI-News/</link>
     <description>Daily AI-generated news covering global business, finance, and geopolitics.</description>
     <language>en-us</language>
     <copyright>© 2025 AI News</copyright>
-    <ns0:author>AI News Team</ns0:author>
-    <ns0:explicit>no</ns0:explicit>
-    <ns0:category text="News">
-      <ns0:category text="Business" />
-    </ns0:category>
-    <ns0:image href="https://denismdxbwork.github.io/AI-News/podcast-artwork.jpg" />
-    <ns0:owner>
-      <ns0:name>AI News Team</ns0:name>
-      <ns0:email>your-email@example.com</ns0:email>
-    </ns0:owner>
-    <ns0:type>episodic</ns0:type>
-    <ns0:summary>Your morning update on global markets, finance, and geopolitics — perfect for busy professionals.</ns0:summary>
+    <itunes:author>AI News Team</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="News" />
+    <itunes:image href="https://denismdxbwork.github.io/AI-News/podcast-artwork.jpg"/>
+    <itunes:owner>
+      <itunes:name>AI News Team</itunes:name>
+      <itunes:email>your-email@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Your morning update on global markets, finance, and geopolitics — perfect for busy professionals.</itunes:summary>
     <lastBuildDate>Sat, 22 Mar 2025 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Daily Briefing – Mar 22, 2025</title>
+      <link>https://denismdxbwork.github.io/AI-News/</link>
+      <guid>https://denismdxbwork.github.io/AI-News/news_20250322_120000.mp3</guid>
+      <pubDate>Sat, 22 Mar 2025 12:00:00 +0000</pubDate>
+      <enclosure url="https://denismdxbwork.github.io/AI-News/news_20250322_120000.mp3" length="4511451" type="audio/mpeg" />
+      <itunes:duration>9:56</itunes:duration>
+      <itunes:summary>Today's top business and geopolitical updates in under 10 minutes, including market trends and policy shifts.</itunes:summary>
+      <itunes:author>AI News Team</itunes:author>
+      <content:encoded><![CDATA[<p>Listen to today's headlines on the global economy, major deals, tech news, and more. <a href="https://denismdxbwork.github.io/AI-News/news_20250322_120000.mp3">Click here to listen</a>.</p>]]></content:encoded>
+    </item>
   </channel>
 </rss>
