@@ -1,10 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <item><title>News Update – Sat, 22 Mar 2025 14:49:25 +0000</title><enclosure url="https://denismdxbwork.github.io/AI-News/news_20250322_144925.mp3" type="audio/mpeg" /><pubDate>Sat, 22 Mar 2025 14:49:25 +0000</pubDate><guid>https://denismdxbwork.github.io/AI-News/news_20250322_144925.mp3</guid></item><title>AI News Podcast</title>
+    <item><title>News Update – Sat, 22 Mar 2025 15:21:25 +0000</title><enclosure url="https://denismdxbwork.github.io/AI-News/news_20250322_152125.mp3" type="audio/mpeg" /><pubDate>Sat, 22 Mar 2025 15:21:25 +0000</pubDate><guid>https://denismdxbwork.github.io/AI-News/news_20250322_152125.mp3</guid></item><title>AI News Podcast</title>
     <link>https://denismdxbwork.github.io/AI-News/</link>
     <description>Daily AI-generated news covering global business, finance, and geopolitics.</description>
     <language>en-us</language>
+    <copyright>© 2025 AI News</copyright>
+    <ns0:author>AI News Team</ns0:author>
+    <ns0:explicit>no</ns0:explicit>
+    <ns0:category text="News">
+      <ns0:category text="Business" />
+    </ns0:category>
+    <ns0:image href="https://denismdxbwork.github.io/AI-News/podcast-artwork.jpg" />
+    <ns0:owner>
+      <ns0:name>AI News Team</ns0:name>
+      <ns0:email>your-email@example.com</ns0:email>
+    </ns0:owner>
+    <ns0:type>episodic</ns0:type>
+    <ns0:summary>Your morning update on global markets, finance, and geopolitics — perfect for busy professionals.</ns0:summary>
     <lastBuildDate>Sat, 22 Mar 2025 12:00:00 +0000</lastBuildDate>
   </channel>
 </rss>
